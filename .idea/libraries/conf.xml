@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="conf">
+    <CLASSES>
+      <root url="file://C:/TomCat/apache-tomcat-8.0.26/conf" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

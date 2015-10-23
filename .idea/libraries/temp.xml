@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="temp">
+    <CLASSES>
+      <root url="file://C:/TomCat/apache-tomcat-8.0.26/temp" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
